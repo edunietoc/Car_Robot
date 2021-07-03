@@ -1,4 +1,3 @@
 # Car_Robot
 Car used in pipe monitoring (Prototype)
-
-Video: https://youtu.be/ntMu2C30PnI
+check video here: https://youtu.be/ntMu2C30PnI
